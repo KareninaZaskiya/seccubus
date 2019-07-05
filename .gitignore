@@ -1,0 +1,40 @@
+# Mac Stuff
+*.DS_Store
+
+# Temp files
+.*.swp
+tmp/
+log/
+.vagrant/
+
+# Config
+etc/config.xml
+etc/config.xml.*
+etc/config.dev.xml
+etc/config.issues.xml
+
+# Temporary files used for building
+errors.txt
+Makefile
+MANIFEST
+MYMETA.json
+MYMETA.yml
+*.old
+*.tar.gz
+*.tar
+*.bak
+blib/
+jmvc/seccubus/production.css
+jmvc/seccubus/production.js
+pm_to_blib
+junit_output.xml
+etc/config.xml
+logs
+jmvc/testresults.xml
+.kitchen.yml
+
+# Build directory
+build/
+
+# Docker data dir
+data/

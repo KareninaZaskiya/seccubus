@@ -1,0 +1,20 @@
+Seccubus includes the following software:
+
+IVIL
+https://github.com/seccubus/ivil
+Licensed under the MIT License
+Author: Frank Breedijk
+
+JavascriptMVC
+Licensed under the MIT license
+http://javascriptmvc.com/
+
+jQuery
+http://jquery.org
+Licensed under the MIT license
+http://jquery.org/license
+
+OpenVAS-OMP
+http://search.cpan.org/~wneessen/OpenVAS-OMP_0.04/lib/OpenVAS/OMP.pm
+Copyright (C) 2013 by Winfried Neessen <wn@neessen.net>. Published under the
+terms of the Artistic License 2.0.
